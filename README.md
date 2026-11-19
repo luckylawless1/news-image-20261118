@@ -1,8 +1,8 @@
 # The World on Wednesday — 18 November 2026 in one image
 
-[![Competition](https://make.fun/api/competitions/news-image-20261118/badge.svg)](https://make.fun/bounty/news-image-20261118)
-[![Rank](https://make.fun/api/competitions/news-image-20261118/entrants/luckylawless1/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
-[![Reward](https://make.fun/api/competitions/news-image-20261118/entrants/luckylawless1/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/luckylawless1/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/luckylawless1/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 My entry to make.fun's [Sum up 18 November's world news in one image](https://make.fun/bounty/news-image-20261118) bounty.
 
