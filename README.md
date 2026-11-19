@@ -6,30 +6,74 @@
 
 My entry to make.fun's [Sum up 18 November's world news in one image](https://make.fun/bounty/news-image-20261118) bounty.
 
-One 1024×1024 poster, in a bold red/cream/black editorial style, that sums up the six biggest stories of Wednesday 18 November 2026 — plus a strip of the day's smaller headlines.
+One 1024×1024 image: a dense broadsheet front page carrying 40 stories from Wednesday 18 November 2026 — a lead story with a drawn map of the Strait of Hormuz, 36 story cards in three columns, a timeline of the day, and an "also today" strip.
 
-## The six stories
+## The stories
 
-1. **Shenzhen summit.** Xi Jinping and Vladimir Putin met in Shenzhen on Wednesday ahead of Thursday's first trilateral summit with Donald Trump on the APEC sidelines.
-2. **Gulf clash.** US jets struck an Iranian missile site on Qeshm Island after Iranian drones targeted a US radar site in Bahrain; Iran struck Kuwait and Bahrain, tankers burned in the Strait of Hormuz and oil neared $93.
-3. **Kerch Bridge hit again.** Ukraine struck the Kerch (Crimean) Bridge for a second day and part of the road span collapsed, while Russia said it downed over 1,400 Ukrainian drones.
-4. **Alaska flips.** Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska, giving Democrats a projected 56–44 Senate majority.
-5. **Nvidia's record quarter.** Nvidia reported a record $115.8 billion quarter (up 103% year on year) as its board declined to reinstate Jensen Huang as CEO.
-6. **Cyclone Akvan.** Cyclone Akvan strengthened over the Bay of Bengal toward India's Andhra Pradesh/Odisha coast, with mass evacuations under way.
+**Lead story — the Gulf.** US jets struck a Revolutionary Guards missile site on Qeshm Island at the mouth of the Strait of Hormuz; Iran replied with drones and missiles at bases hosting US forces in Kuwait and Bahrain, tankers burned in the strait and oil climbed towards $93 as mediators Oman and Qatar kept talking.
 
-Also that day:
+### Asia-Pacific & South Asia
 
-- The US lost its measles-free status after 26 years.
-- Ebola cases in DR Congo passed 11,000.
-- GTA VI launched at midnight worldwide.
-- COP31 delegates fought over a fossil-fuel phase-out draft.
+- **Shenzhen summit.** Xi Jinping and Vladimir Putin met in Shenzhen and opened the APEC summit, a day before their first trilateral talks with President Trump.
+- **Quad in Manila.** Quad leaders announced a new plan in Manila as President Trump arrived for talks before flying on to Shenzhen.
+- **Seoul courts Beijing.** South Korea's President Lee Jae Myung used the APEC gathering to strengthen relations with China.
+- **India–Japan 2+2.** Defence and foreign ministers met in Tokyo for the fourth India–Japan 2+2 dialogue.
+- **Myanmar.** The military government said it would review its ties with the ASEAN bloc.
+- **Cyclone Akvan.** The severe storm strengthened over the Bay of Bengal towards India's Andhra Pradesh coast, due to make landfall on Friday; Odisha began large-scale evacuations and shut schools.
+- **India's wholesale inflation** rose to 12.29% in October, the highest in four years.
+- **Afghanistan earthquake.** A powerful quake struck eastern Afghanistan, killing over 600 people and flattening villages.
+- **Pakistan.** The death toll from a building explosion climbed to 16 as rescuers searched the rubble.
+
+### Middle East
+
+- **Gaza ceasefire.** Trump's Board of Peace faulted Israel and Hamas over the ceasefire as reconstruction stalled and winter approached.
+- **Knesset speaker.** Matan Kahana's election as speaker was read as an early win for prime minister-elect Eisenkot's incoming government.
+- **Gaza aid warning.** The WHO warned that 950,000 displaced Gazans are camped on ground prone to flooding as winter comes.
+- **Settlement sanctions.** Australia and the UK announced coordinated sanctions on people and companies behind Israeli settlement expansion in the West Bank.
+- **Iran.** Four people died when an Iranian army helicopter crashed in Isfahan province.
+
+### Europe
+
+- **Kerch Bridge hit again.** Part of the road span collapsed as Kyiv struck the Crimea bridge for a second day; Moscow said its air defences downed over 1,400 Ukrainian drones overnight.
+- **EU loan for Ukraine.** Brussels proposed a €45 billion loan for Kyiv in 2027, with the budget signed off alongside an EU–Indonesia trade deal.
+- **UK inflation** climbed to 3.6% as forecasts pointed to a 26% jump in the January energy price cap.
+- **Brexit reset.** Prime Minister Andy Burnham said Brexit had not delivered, ahead of a reset summit with the EU.
+- **France and Russia.** Moscow accused France of direct involvement in the Ukraine war after reports of French personnel in Ukraine; Paris rejected the claims, and Marine Le Pen proposed cutting the retirement age.
+- **COP31.** Talks in Türkiye turned contentious after an 18-page draft called for a fossil-fuel phase-out and net zero in wealthy countries by 2030.
+
+### Americas
+
+- **Alaska flips.** Democrat Mary Peltola beat Republican incumbent Dan Sullivan, sealing a projected 56–44 Democratic majority in the incoming Senate.
+- **Jeffries nominated.** House Democrats picked Hakeem Jeffries as their nominee for speaker, 251 votes to 11.
+- **Jesse Jackson dies at 84.** The civil rights leader and two-time presidential candidate died aged 84.
+- **Outages 'not an attack'.** Security officials told Congress the week's outages were no attack, but warned Iran keeps probing US water, energy and banking systems; the FAA chief took blame for the ground stop.
+- **Floods and boil-water orders.** Up to 15 inches of rain flooded South Florida while 240,000 people in South Carolina were told to boil their water.
+- **Venezuela pact.** Washington signed a military pact with Caracas as the administration touted its 'Donroe Doctrine' for the hemisphere.
+- **Mexico.** The president called for calm as cartel violence erupted across several states after the death of the leader known as El Mencho.
+- **Costa Rica.** Journalist Camilo Rodríguez, known for reporting on traffickers and politicians, was shot dead — the first such killing in 25 years.
+- **Pope's tour ends.** Pope Leo XIV bid 'hasta luego' to Peru, his second homeland, after a marathon 12-day South America tour that followed his lung-cancer surgery.
+
+### Africa
+
+- **Chad closes its border with Sudan** as tensions between Sudan and Ethiopia escalated, each accusing the other of backing armed groups.
+- **Nigeria.** The Senate pushed to disqualify candidates who sponsor political violence, as the government froze hiring across federal agencies.
+
+### Science, technology, health & sport
+
+- **Voyager 1 reaches one light-day.** NASA's 1977 probe crossed one light-day from Earth — some 16 billion miles — a full day for its signal to come home. No human-made object has gone farther.
+- **Ebola tops 11,000; US loses measles status.** Congo's Ebola outbreak passed 11,000 cases, and the United States lost its measles-elimination status after 26 years.
+- **Nvidia's record quarter.** Revenue doubled to $115.8 billion (up 103% on the year) as the board declined to reinstate Jensen Huang as chief executive.
+- **OpenAI launches GPT-6.2 Astra and Sol**, with lower API prices intensifying the price war among AI labs.
+- **Dhoni retires.** India's former captain MS Dhoni announced his retirement from the Indian Premier League.
+
+Also today: New York orders a travel ban as a major storm hits the US East · Russia to equip new nuclear submarines with hypersonic missiles · German president Steinmeier to visit the Beirut blast site · GTA VI launches at midnight, region by region.
 
 ## How it was made
 
-- Six original AI-generated illustrations (no text in them) in a red/cream/black editorial poster style; the layout echoes a classic Indonesian school-poster layout the entrant supplied as a style reference.
-- `compose.py` (Python + Pillow) arranges the illustrations, the date and strapline bands, the hero caption block and the headline bars into the finished poster, using the Anton and Archivo Black typefaces (SIL Open Font License; license texts in `assets/fonts/`).
+- `compose.py` (Python + Pillow) draws the whole front page from scratch: masthead, date line and strapline, the lead story with a drop cap and a stylised map of the Strait of Hormuz drawn with Pillow shapes (Iran and Arabia in tan, the Gulf in dark blue, Qeshm Island marked with the strike), 36 story cards whose text is auto-fitted (shrunk or ellipsised) so nothing overflows, the "day by the clock" timeline strip, the ALSO TODAY band and the footer. Headlines are set in Liberation Serif Bold, body text in Liberation Sans.
+- An earlier version of this entry was a bold red/cream/black poster built from six AI-generated illustrations; those illustrations remain in `assets/` but the submitted image is now the broadsheet above, which carries far more of the day's news.
 - `main.ts` (Node 22, standard library only) copies the finished `entry.png` to the output directory named by `MAKEFUN_OUTPUT_DIR` (default `/output`).
-- The program runs offline and writes byte-identical output on every run: `entry.png` is saved as PNG, or as JPEG (quality 88) if the PNG would exceed 1,000,000 bytes.
+- The program runs offline and writes byte-identical output on every run: `entry.png` is saved as PNG, or as JPEG (quality 90) if the PNG would exceed 1,000,000 bytes.
 
 ## License
 
