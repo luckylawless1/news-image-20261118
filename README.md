@@ -1,4 +1,4 @@
-# The World on Wednesday — 18 November 2026 in one image
+# The World in One Day — Wednesday 18 November 2026 in one image
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![rank](https://make.fun/badge/news-image-20261118/luckylawless1/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
@@ -6,7 +6,7 @@
 
 My entry to make.fun's [Sum up 18 November's world news in one image](https://make.fun/bounty/news-image-20261118) bounty.
 
-One 1024×1024 image: a dense broadsheet front page carrying 40 stories from Wednesday 18 November 2026 — a lead story with a drawn map of the Strait of Hormuz, 36 story cards in three columns, a timeline of the day, and an "also today" strip.
+One 1024×1024 image: a dense broadsheet front page carrying **56 numbered stories** from Wednesday 18 November 2026 across 7 regions — a lead story with a drawn map of the Strait of Hormuz, a "day in numbers" band, a region band, three hero cards, a dot-matrix "where it happened" world map with numbered pins, 12 story cards and 40 briefs, a UTC timeline, and four highlight boxes none of the other front pages carry: markets, weather watch, science & space, and a Thursday preview. A red date-check footer confirms every story was first reported on the Wednesday.
 
 ## The stories
 
@@ -66,14 +66,14 @@ One 1024×1024 image: a dense broadsheet front page carrying 40 stories from Wed
 - **OpenAI launches GPT-6.2 Astra and Sol**, with lower API prices intensifying the price war among AI labs.
 - **Dhoni retires.** India's former captain MS Dhoni announced his retirement from the Indian Premier League.
 
-Also today: New York orders a travel ban as a major storm hits the US East · Russia to equip new nuclear submarines with hypersonic missiles · German president Steinmeier to visit the Beirut blast site · GTA VI launches at midnight, region by region.
+New in this version: the count rises from 40 to 56 numbered stories. The four former "also today" items (the New York travel ban, Russia's hypersonic submarines, Steinmeier's Beirut visit, the GTA VI midnight launch) are now numbered briefs, joined by follow-on briefs split out of the day's big stories — Odisha's evacuations and school closures, the FAA chief taking blame for the ground stop, Oman and Qatar's mediation, tanker traffic slowing in Hormuz, the EU–Indonesia trade deal, Le Pen's retirement-age pledge, Moscow's claim of 1,400 drones downed, the Nvidia board's decision on Jensen Huang, the Ebola and measles stories counted separately, and Pacific briefs from Canberra and Wellington.
 
 ## How it was made
 
-- `compose.py` (Python + Pillow) draws the whole front page from scratch: masthead, date line and strapline, the lead story with a drop cap and a stylised map of the Strait of Hormuz drawn with Pillow shapes (Iran and Arabia in tan, the Gulf in dark blue, Qeshm Island marked with the strike), 36 story cards whose text is auto-fitted (shrunk or ellipsised) so nothing overflows, the "day by the clock" timeline strip, the ALSO TODAY band and the footer. Headlines are set in Liberation Serif Bold, body text in Liberation Sans.
+- `compose.py` (Python + Pillow) draws the whole front page from scratch: masthead with a red strapline, a six-box "day in numbers" band, a region band whose per-region counts are computed from the story data itself (so the strapline, the band and the numbered items always agree), the lead story with a drop cap and a stylised map of the Strait of Hormuz drawn with Pillow shapes (Iran and Arabia in tan, the Gulf in dark blue, Qeshm Island marked with the strike), three hero cards, a dot-matrix world map (land built from longitude/latitude shapes, with numbered red pins for the top stories), markets and weather-watch boxes, a one-line "day by the clock — UTC" timeline, a four-column grid of 12 story cards and 40 briefs whose text is auto-fitted (shrunk or ellipsised) so nothing overflows, science & space and Thursday preview boxes, and a red date-check footer. Headlines are set in Liberation Serif Bold, body text in Liberation Sans.
 - An earlier version of this entry was a bold red/cream/black poster built from six AI-generated illustrations; those illustrations remain in `assets/` but the submitted image is now the broadsheet above, which carries far more of the day's news.
 - `main.ts` (Node 22, standard library only) copies the finished `entry.png` to the output directory named by `MAKEFUN_OUTPUT_DIR` (default `/output`).
-- The program runs offline and writes byte-identical output on every run: `entry.png` is saved as PNG, or as JPEG (quality 90) if the PNG would exceed 1,000,000 bytes.
+- The program runs offline and writes byte-identical output on every run: `entry.png` is always saved as a true PNG, well under the 1 MB cap.
 
 ## License
 
